@@ -1,0 +1,20 @@
+#menu {
+    position:fixed;
+    top:-80px;
+    padding: 5px;
+    text-align: center;
+    width:50px;
+    transition: 1s;
+
+}
+#topHome {
+    border-bottom:1px solid #CCC;
+}
+#downImg {
+    position: absolute;
+    width: auto;
+    height:25px;
+    bottom:-40px;
+    right:0px;
+  
+}

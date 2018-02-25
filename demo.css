@@ -1,0 +1,57 @@
+#demo {
+	position:absolute;
+	width: 70vw;
+	height: 70vh;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	
+}
+#HEAD, #SHIRT, #PANTS, #SHOES{
+	height: 90%;
+	display:block; 
+	margin:auto;
+}
+#hat {
+
+	width: 20%;
+	height:20%;
+	right:50%;
+	left:50%;
+	margin:auto;
+}
+#shirt {
+	width: 20%;
+	height:20%;
+	right:50%;
+	left:50%;
+	margin:auto;
+}
+#pants {
+	width: 20%;
+	height:20%;
+	right:50%;
+	left:50%;
+	margin:auto;
+}
+#shoes {
+	width: 20%;
+	height:20%;
+	right:50%;
+	left:50%;
+	margin:auto;
+}
+#controls {
+	position:absolute;
+	width:100%;
+	text-align: center;
+	top:73%;
+	
+}
+
+#bodyR , #headR, #legR, #footR {
+	position: fixed;
+	display: block;
+}
